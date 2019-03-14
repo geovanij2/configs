@@ -11,5 +11,6 @@
     "files.trimTrailingWhitespace": true,
     "workbench.colorTheme": "Monokai",
     "workbench.editor.highlightModifiedTabs": true,
-    "workbench.settings.openDefaultSettings": true
+    "workbench.settings.openDefaultSettings": true,
+    "extensions.ignoreRecommendations": true
 }
